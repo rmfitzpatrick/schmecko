@@ -1,0 +1,10 @@
+*.pyc
+*.pyc
+*.pyo
+*.so
+*.class
+*~
+__pycache__
+/schmecko.egg-info
+/dist/
+.idea
